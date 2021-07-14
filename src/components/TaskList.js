@@ -16,7 +16,7 @@ export function PureTaskList({ loading, tasks, onPinTask, onArchiveTask }) {
       <div className="loading-item">
         <span className="glow-checkbox" />
         <span className="glow-text">
-          <span>Loading stuff</span> <span>cool</span> <span>state</span>
+          <span>Loading</span> <span>cool</span> <span>state</span>
         </span>
       </div>
     );
